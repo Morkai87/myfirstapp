@@ -21,7 +21,11 @@ class App extends Component {
 
             Testing merge and amendment without pull or fetch.
 
-            Further tests! Monica!
+            Now I am testing.
+
+            Further tests
+
+            Oh no, there have been changes to the master!
           </a>
         </header>
       </div>
