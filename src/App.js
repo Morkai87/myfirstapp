@@ -23,7 +23,13 @@ class App extends Component {
 
             Now I am testing.
 
+<<<<<<< HEAD
             Further tests! Monica!
+=======
+            Further tests
+
+            Oh no, there have been changes to the master!
+>>>>>>> 3cc1350681bc879d57cca0b89bf6918b60f62c4c
           </a>
         </header>
       </div>
