@@ -18,6 +18,8 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React
+
+            Testing merge
           </a>
         </header>
       </div>
