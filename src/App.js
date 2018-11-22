@@ -19,7 +19,7 @@ class App extends Component {
           >
             Learn React
 
-            Testing merge
+            Testing merge and amendment without pull or fetch.
           </a>
         </header>
       </div>
