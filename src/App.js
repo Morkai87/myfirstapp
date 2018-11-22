@@ -24,6 +24,8 @@ class App extends Component {
             Now I am testing.
 
             Further tests
+
+            Oh no, there have been changes to the master!
           </a>
         </header>
       </div>
