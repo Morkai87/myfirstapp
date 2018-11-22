@@ -17,9 +17,13 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
+<<<<<<< HEAD
             Learn React
 
             Testing merge and amendment without pull or fetch.
+=======
+            Learn React NOW!
+>>>>>>> markver
           </a>
         </header>
       </div>
