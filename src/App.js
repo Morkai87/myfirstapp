@@ -17,9 +17,11 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React NOW!
+            Learn React
 
-            Now I am testing
+            Testing merge and amendment without pull or fetch.
+
+            now I am Testing
 
           </a>
         </header>
